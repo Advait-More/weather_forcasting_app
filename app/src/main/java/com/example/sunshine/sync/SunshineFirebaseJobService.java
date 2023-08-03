@@ -1,9 +1,6 @@
 
 package com.example.sunshine.sync;
 
-
-
-
 import android.content.Context;
 import android.os.AsyncTask;
 
